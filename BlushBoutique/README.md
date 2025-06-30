@@ -1,2 +1,1 @@
-# BlushBoutique
-
+# BlushBoutique # Replace the incorrect README
